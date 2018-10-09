@@ -1,2 +1,2 @@
 # testrepo
-this is a test repository
+This is a test repository for SWC Oct 8-9 2018.
